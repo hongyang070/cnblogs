@@ -2,7 +2,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    username: xx
-    password: xx
+    username: root
+    password: talosoft
     url: jdbc:mysql://localhost:3306/xxx?characterEncoding=utf8&useSSL=false&allowMultiQueries=true
 
